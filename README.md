@@ -1,6 +1,6 @@
 # TriALU-with-Soft-Core-CPU-FPGA-Implementation
 High-performance Triple Arithmetic Logic Unit (Tri-ALU) designed with execution modes and multi-operand operation for efficient FPGA-based CPU architectures.
-<object data="TRI-ALU .pdf" width="1000" height="1000" type='application/pdf'></object>
+📄 [Download Tri-ALU Full Thesis (PDF)](TRI-ALU.pdf)
 
 # Tri-ALU: High-Performance Arithmetic Logic Unit with Execution Modes and Multi-Operand Operation
 
